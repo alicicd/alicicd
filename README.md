@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alicicd
+- 👋 Hi, I’m @alibek
 - 👀 I’m interested in Iac
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on any web projects
